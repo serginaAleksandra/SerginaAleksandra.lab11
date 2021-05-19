@@ -1,0 +1,10 @@
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.Form1.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Alexandra\Desktop\учеба\имитационное моделирование\lab11\lab11\lab11\obj\Debug\lab11.pdb
